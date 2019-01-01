@@ -1,0 +1,2 @@
+# autoNewYearCard
+csvの住所録を読み込んで、TeXで宛名欄の流し込みを行うGUIツール
